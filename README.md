@@ -2,9 +2,7 @@
 
 # Try here: https://voice-based-learning-companion.vercel.app/
   
-  <br />
-      <img src="public/readme/hero.png" alt="Project Banner">
-  <br />
+
 
   <div>
     <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
