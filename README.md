@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <br />
       <img src="public/readme/hero.png" alt="Project Banner">
   <br />
